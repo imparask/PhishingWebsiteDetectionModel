@@ -12,4 +12,4 @@ Once the model is ready it has been stored as a Keras file in urlKeras.h5 file a
 
 The command one needs to type in command prompt for converting keras file into tensorflowlite is toco \ --output_file=trained_model.tflite\ --keras_model_file=trained_model.h5
 
-The application for predicting the url is available on my other repository https://github.com/imparask/PhishingWebsiteDetectionApp
+The application for predicting the url is available on my other repository (https://github.com/imparask/PhishingWebsiteDetectionApp)
