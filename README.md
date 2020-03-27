@@ -11,3 +11,5 @@ The checkUrl.py is the actual file where you need to enter the url and check whe
 Once the model is ready it has been stored as a Keras file in urlKeras.h5 file and then it was further converted to TensorFLow Lite model and stored in urlTflite.tflite file.
 
 The command one needs to type in command prompt for converting keras file into tensorflowlite is toco \ --output_file=trained_model.tflite\ --keras_model_file=trained_model.h5
+
+The application for predicting the url is available on my other repository https://github.com/imparask/PhishingWebsiteDetectionApp
