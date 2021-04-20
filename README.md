@@ -1,6 +1,6 @@
 # PhishingWebsiteDetectionModel
 
-In this repository you would be able to find Feature Extraction and the final Prediction File.
+In this repository you would be able to find Feature Extraction file and the final Prediction File.
 
 ### 1. Feature Extraction :
 Both the feature extraction files follow the same process to classify urls based on 13 features. The only difference is FeatureExtraction.py is used for extracting features of the url you want to predict.
